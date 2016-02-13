@@ -54,6 +54,11 @@ a:hover,a:focus,.a:active {
 h1,.h1 {
   font-weight: 700;
 }
+
+.font-bold {
+    font-weight: 700;
+}
+
 blockquote {
   margin: 0 0 10px;
   font-size: 18px;
@@ -122,6 +127,13 @@ textarea {
   position: relative;
 }
 
+.title-hr {
+    height: 4px;
+    width: 60px;
+    margin: 25px auto 20px;
+    background: #4c5667;
+    border-radius: 4px;
+}
 /* PRE LOADER */
 .preloader {
   position: fixed;
