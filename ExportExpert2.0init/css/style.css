@@ -195,7 +195,6 @@ textarea {
   border-color: #337ab7;
 }
 
-
 /*======= Dropdown ======= */
 .dropdown-menu {
   box-shadow: none;
@@ -354,6 +353,11 @@ textarea {
   margin-top: 30px;
 }
 
+.feature-1:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 /*======= Screenshot =======*/
 .thumb {
