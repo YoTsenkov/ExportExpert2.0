@@ -496,7 +496,7 @@ textarea {
   padding-top: 20px;
 }
 .footer-alt .logo {
-  color: #97a0af !important;
+  color: rgb(83,83,83) !important;
   margin-bottom: 0px;
 }
 .footer-alt .logo i {
